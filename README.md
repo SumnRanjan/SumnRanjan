@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Hi, I'm Suman Ranjan, a passionate software developer with a focus on web development and DSA.
+
+🌱 Skills: JavaScript, CPP, React, Node.js Express,  MongoDB.
+
 <!--
 **SumnRanjan/SumnRanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
