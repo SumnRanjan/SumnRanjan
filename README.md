@@ -16,7 +16,7 @@ I'm a passionate **Full-Stack Developer** and **DSA enthusiast** who loves build
 
 ### 📌 Featured Projects
 
-- 🔗 [Forever – E-commerce Website (MERN Stack)](https://github.com/SumnRanjan/Forever)
+- 🔗 [Forever – E-commerce Website (MERN Stack)](https://github.com/SumnRanjan/Forever-Ecom)
 - 🛒 MySQL-based E-commerce site (in progress...)
 
 ---
