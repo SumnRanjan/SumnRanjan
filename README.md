@@ -1,20 +1,46 @@
-## Hi there 👋
+## 👋 Hi there, I'm Suman Ranjan
 
-Hi, I'm Suman Ranjan, a passionate software developer with a focus on web development and DSA.
+I'm a passionate **Full-Stack Developer** and **DSA enthusiast** who loves building awesome web applications and solving real-world problems through code.
 
-🌱 Skills: JavaScript, CPP, React, Node.js Express,  MongoDB.
+---
 
-<!--
-**SumnRanjan/SumnRanjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
 
-Here are some ideas to get you started:
+- 💻 Currently diving deeper into the **MERN stack** & building scalable projects
+- 🌱 Constantly sharpening my skills in **Data Structures & Algorithms** using Java
+- ⚙️ Tech Stack: `JavaScript` | `C++` | `React.js` | `Node.js` | `Express` | `MongoDB`
+- 📦 Experienced with building full-stack apps, REST APIs, and real-time features
+- 📈 Solved 500+ coding problems on **LeetCode**, **GFG**, and **CodeChef**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📌 Featured Projects
+
+- 🔗 [Forever – E-commerce Website (MERN Stack)](https://github.com/SumnRanjan/Forever)
+- 🛒 MySQL-based E-commerce site (in progress...)
+
+---
+
+### 💬 Let's Connect!
+
+- 📧 Email: **sumancodedev@gmail.com**
+- 🌐 Portfolio: [sumanranjan.dev](https://suman.link) 
+- 💼 LinkedIn: [linkedin.com/in/suman-ranjan](https://www.linkedin.com/in/suman-ranjan)
+
+---
+
+### ⚡ Fun Fact
+
+> I debug code like Sherlock solves mysteries — minus the hat. 🕵️‍♂️
+
+---
+
+### 📊 GitHub Stats
+
+![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumnRanjan&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumnRanjan&layout=compact&theme=tokyonight)
+
+---
+
+_✨ Let's build something amazing together!_
