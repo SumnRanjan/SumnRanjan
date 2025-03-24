@@ -8,7 +8,7 @@ I'm a passionate **Full-Stack Developer** and **DSA enthusiast** who loves build
 
 - 💻 Currently diving deeper into the **MERN stack** & building scalable projects
 - 🌱 Constantly sharpening my skills in **Data Structures & Algorithms** using Java
-- ⚙️ Tech Stack: `JavaScript` | `C++` | `React.js` | `Node.js` | `Express` | `MongoDB`
+- ⚙️ Tech Stack: `Java` | `C++`| `JavaScript` | `React.js` | `Node.js` | `Express` | `MongoDB`
 - 📦 Experienced with building full-stack apps, REST APIs, and real-time features
 - 📈 Solved 500+ coding problems on **LeetCode**, **GFG**, and **CodeChef**
 
@@ -23,7 +23,7 @@ I'm a passionate **Full-Stack Developer** and **DSA enthusiast** who loves build
 
 ### 💬 Let's Connect!
 
-- 📧 Email: **sumancodedev@gmail.com**
+- 📧 Email: **sumanranjan17191729@gmail.com**
 - 🌐 Portfolio: [sumanranjan.dev](https://suman.link) 
 - 💼 LinkedIn: [linkedin.com/in/suman-ranjan](https://www.linkedin.com/in/suman-ranjan)
 
