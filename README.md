@@ -25,7 +25,7 @@ I'm a passionate **Full-Stack Developer** and **DSA enthusiast** who loves build
 
 - 📧 Email: **sumanranjan17191729@gmail.com**
 - 🌐 Portfolio: [sumanranjan.dev](https://suman.link) 
-- 💼 LinkedIn: [linkedin.com/in/suman-ranjan](https://www.linkedin.com/in/suman-ranjan)
+- 💼 LinkedIn:(https://www.linkedin.com/in/suman-ranjan-profile/)
 
 ---
 
