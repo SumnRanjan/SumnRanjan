@@ -24,7 +24,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [**Forever**](https://github.com/SumnRanjan/Forever-Ecom) | MERN Stack E-commerce Website |
+| 🔗 [**Forever**](https://github.com/SumnRanjan/Forever-Ecom) | E-commerce Platform |
 | 📝 [**LamaBlog**](https://github.com/SumnRanjan/LamaBlog) | Blogging Platform |
 | 🎦 [**PlayIt**](https://github.com/SumnRanjan/PlayIt-Backend) | Video Streaming Platform |
 | 🚗 [**CarRental**](https://github.com/SumnRanjan/Car-Rental) | Car Booking System |
