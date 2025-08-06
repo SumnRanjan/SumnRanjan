@@ -18,6 +18,8 @@ I'm a passionate **Full-Stack Developer** and **DSA enthusiast** who loves build
 
 - 🔗 [Forever – E-commerce Website (MERN Stack)](https://github.com/SumnRanjan/Forever-Ecom)  
 - 📝 [LamaBlog – Blogging Platform](https://github.com/SumnRanjan/LamaBlog)
+- 🎦 [PlayIt - Video Platform](https://github.com/SumnRanjan/PlayIt-Backend)
+- 🚔 [CarRental](https://github.com/SumnRanjan/Car-Rental)
 
 ---
 
