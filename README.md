@@ -1,33 +1,33 @@
-## 👋 Hi there, I'm Suman Ranjan
+## 👋 Hi, I'm Suman Ranjan
 
-I'm a passionate **Full-Stack Developer** and **DSA enthusiast** who loves building awesome web applications and solving real-world problems through code.
+I'm a passionate **Full-Stack Developer** and **DSA Enthusiast** who enjoys crafting scalable web applications and solving real-world problems through elegant code.
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Currently diving deeper into the **MERN stack** & building scalable projects  
-- 🌱 Constantly sharpening my skills in **Data Structures & Algorithms** using Java  
-- ⚙️ Tech Stack: `Java` | `C++` | `JavaScript` | `React.js` | `Node.js` | `Express` | `MongoDB`  
-- 📦 Experienced with building full-stack apps, REST APIs, and real-time features  
-- 📈 Solved 500+ coding problems on **LeetCode**, **GFG**, and **CodeChef**
+- 💻 Deep diving into the **MERN Stack** and scalable system design  
+- 🌱 Actively sharpening my skills in **Data Structures & Algorithms** using **Java**  
+- ⚙️ Tech Stack: `Java` • `C++` • `JavaScript` • `React.js` • `Node.js` • `Express` • `MongoDB`  
+- 🛠️ Hands-on experience building **full-stack apps**, **REST APIs**, and **real-time features**  
+- 📈 Solved **500+ coding problems** on **LeetCode**, **GeeksforGeeks**, and **CodeChef**
 
 ---
 
 ### 📌 Featured Projects
 
-- 🔗 [Forever – E-commerce Website (MERN Stack)](https://github.com/SumnRanjan/Forever-Ecom)  
-- 📝 [LamaBlog – Blogging Platform](https://github.com/SumnRanjan/LamaBlog)
-- 🎦 [PlayIt - Video Platform](https://github.com/SumnRanjan/PlayIt-Backend)
-- 🚔 [CarRental](https://github.com/SumnRanjan/Car-Rental)
+- 🔗 [Forever – E-commerce Website (MERN)](https://github.com/SumnRanjan/Forever-Ecom)  
+- 📝 [LamaBlog – Blogging Platform](https://github.com/SumnRanjan/LamaBlog)  
+- 🎦 [PlayIt – Video Streaming Platform](https://github.com/SumnRanjan/PlayIt-Backend)  
+- 🚗 [CarRental – Vehicle Booking System](https://github.com/SumnRanjan/Car-Rental)
 
 ---
 
-### 💬 Let's Connect!
+### 💬 Connect With Me
 
-- 📧 Email: **sumanranjan17191729@gmail.com**  
-- 🌐 Portfolio: [sumanranjan.dev](https://sumanranjanportfolio.netlify.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/suman-ranjan-profile)
+- 📧 **Email**: [sumanranjan17191729@gmail.com](mailto:sumanranjan17191729@gmail.com)  
+- 🌐 **Portfolio**: [sumanranjan.dev](https://sumanranjanportfolio.netlify.app/)  
+- 💼 **LinkedIn**: [Suman Ranjan](https://www.linkedin.com/in/suman-ranjan-profile)
 
 ---
 
@@ -40,8 +40,8 @@ I'm a passionate **Full-Stack Developer** and **DSA enthusiast** who loves build
 ### 📊 GitHub Stats
 
 ![Suman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumnRanjan&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SumnRanjan&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumnRanjan&layout=compact&theme=tokyonight)
 
 ---
 
-_✨ Let's build something amazing together!_
+_✨ Let's collaborate and build something amazing together!_
