@@ -83,13 +83,6 @@
 
 ## 📊 GitHub Stats (Premium Layout)
 
-### 🔥 Streak Stats
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=SumnRanjan&theme=tokyonight&hide_border=true"
-    height="220"
-  />
-</p>
 
 ### 📈 Overall Stats + Productive Time
 <p align="center">
