@@ -31,28 +31,37 @@
 
 ## 📌 Featured Projects
 
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Description</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/SumnRanjan/Forever-Ecom"><b>Forever</b></a></td>
-    <td>E-commerce Platform</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/SumnRanjan/LamaBlog"><b>LamaBlog</b></a></td>
-    <td>Full Blogging Platform</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/SumnRanjan/PlayIt-Backend"><b>PlayIt</b></a></td>
-    <td>Video Streaming Backend</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/SumnRanjan/Car-Rental"><b>CarRental</b></a></td>
-    <td>Car Booking System</td>
-  </tr>
-</table>
+<div align="center">
+
+  <!-- Project 1 -->
+  <a href="https://github.com/SumnRanjan/Forever-Ecom" target="_blank">
+    <img src="https://img.shields.io/badge/Forever_Ecom-%2300bfff?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <p><b>E-commerce Platform</b></p>
+  <br/>
+
+  <!-- Project 2 -->
+  <a href="https://github.com/SumnRanjan/LamaBlog" target="_blank">
+    <img src="https://img.shields.io/badge/LamaBlog-%23ff6f61?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <p><b>Full Blogging Platform</b></p>
+  <br/>
+
+  <!-- Project 3 -->
+  <a href="https://github.com/SumnRanjan/PlayIt-Backend" target="_blank">
+    <img src="https://img.shields.io/badge/PlayIt-%237a5cf5?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <p><b>Video Streaming Backend</b></p>
+  <br/>
+
+  <!-- Project 4 -->
+  <a href="https://github.com/SumnRanjan/Car-Rental" target="_blank">
+    <img src="https://img.shields.io/badge/Car_Rental-%23ffc107?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+  <p><b>Car Booking System</b></p>
+
+</div>
+
 
 ---
 
