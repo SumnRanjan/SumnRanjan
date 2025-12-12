@@ -31,36 +31,29 @@
 
 ## 📌 Featured Projects
 
-<div align="center">
+<p align="center">
 
-  <!-- Project 1 -->
   <a href="https://github.com/SumnRanjan/Forever-Ecom" target="_blank">
-    <img src="https://img.shields.io/badge/Forever_Ecom-%2300bfff?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Forever_Ecom-0A84FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <p><b>E-commerce Platform</b></p>
-  <br/>
 
-  <!-- Project 2 -->
   <a href="https://github.com/SumnRanjan/LamaBlog" target="_blank">
-    <img src="https://img.shields.io/badge/LamaBlog-%23ff6f61?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/LamaBlog-FF6F61?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <p><b>Full Blogging Platform</b></p>
-  <br/>
 
-  <!-- Project 3 -->
   <a href="https://github.com/SumnRanjan/PlayIt-Backend" target="_blank">
-    <img src="https://img.shields.io/badge/PlayIt-%237a5cf5?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/PlayIt-7A5CF5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <p><b>Video Streaming Backend</b></p>
-  <br/>
 
-  <!-- Project 4 -->
   <a href="https://github.com/SumnRanjan/Car-Rental" target="_blank">
-    <img src="https://img.shields.io/badge/Car_Rental-%23ffc107?style=for-the-badge&logo=github&logoColor=black" />
+    <img src="https://img.shields.io/badge/Car_Rental-FFC107?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <p><b>Car Booking System</b></p>
 
-</div>
+</p>
+
+<p align="center">
+  <b>E-commerce</b> • <b>Blog Platform</b> • <b>Streaming Backend</b> • <b>Car Booking</b>
+</p>
 
 
 ---
@@ -81,35 +74,36 @@
 
 ---
 
-## 📊 GitHub Stats (Premium Layout)
+## 📊 GitHub Stats 
 
-
-### 📈 Overall Stats + Productive Time
 <p align="center">
+
+  <!-- Row 1 -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumnRanjan&theme=tokyonight"
     height="200"
-    style="margin-right:10px"
+    style="margin: 10px;"
   />
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SumnRanjan&theme=tokyonight&utcOffset=5.5"
     height="200"
+    style="margin: 10px;"
   />
-</p>
 
-### 📚 Languages Overview
-<p align="center">
+  <!-- Row 2 -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SumnRanjan&theme=tokyonight"
     height="200"
-    style="margin-right: 10px;"
+    style="margin: 10px;"
   />
 
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SumnRanjan&theme=tokyonight"
     height="200"
+    style="margin: 10px;"
   />
+
 </p>
 
 ---
