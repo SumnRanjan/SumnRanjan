@@ -58,16 +58,6 @@
 
 ---
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:sumanranjan17191729@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://www.linkedin.com/in/suman-ranjan-profile"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-  <a href="https://sumanranjanportfolio.netlify.app/"><img src="https://skillicons.dev/icons?i=web" height="40"/></a>
-</p>
-
----
-
 ## ⚡ Fun Fact
 
 > I debug code like Sherlock solves mysteries — minus the hat. 🕵️‍♂️
@@ -76,35 +66,32 @@
 
 ## 📊 GitHub Stats 
 
+<!-- Row 1 -->
 <p align="center">
-
-  <!-- Row 1 -->
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumnRanjan&theme=tokyonight"
     height="200"
-    style="margin: 10px;"
   />
-
+  &nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SumnRanjan&theme=tokyonight&utcOffset=5.5"
     height="200"
-    style="margin: 10px;"
   />
+</p>
 
-  <!-- Row 2 -->
+<!-- Row 2 -->
+<p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SumnRanjan&theme=tokyonight"
     height="200"
-    style="margin: 10px;"
   />
-
+  &nbsp;&nbsp;&nbsp;
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SumnRanjan&theme=tokyonight"
     height="200"
-    style="margin: 10px;"
   />
-
 </p>
+
 
 ---
 
