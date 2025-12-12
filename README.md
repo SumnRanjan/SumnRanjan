@@ -44,22 +44,22 @@
 > I debug code like Sherlock solves mysteries — minus the hat. 🕵️‍♂️
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-rho-orpin.vercel.app/api?username=SumnRanjan&show_icons=true&theme=tokyonight" 
-    alt="Suman's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=SumnRanjan&show_icons=true&theme=tokyonight&hide_border=true&token=<YOUR_TOKEN>" 
+    alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats-rho-orpin.vercel.app/api/top-langs/?username=SumnRanjan&layout=compact&theme=tokyonight" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumnRanjan&layout=compact&theme=tokyonight&hide_border=true&token=<YOUR_TOKEN>" 
     alt="Top Languages"
   />
 </p>
+
 
 
 
