@@ -46,19 +46,31 @@
 ---
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SumnRanjan&show_icons=true&theme=tokyonight&hide_border=true&token=<YOUR_TOKEN>" 
-    alt="GitHub Stats"
+    src="https://streak-stats.demolab.com?user=SumnRanjan&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SumnRanjan&theme=tokyonight" 
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumnRanjan&layout=compact&theme=tokyonight&hide_border=true&token=<YOUR_TOKEN>" 
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SumnRanjan&theme=tokyonight" 
   />
 </p>
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumnRanjan&theme=tokyonight" 
+  />
+</p>
+
 
 
 
