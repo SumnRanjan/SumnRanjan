@@ -49,17 +49,18 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=SumnRanjan&show_icons=true&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-rho-orpin.vercel.app/api?username=SumnRanjan&show_icons=true&theme=tokyonight" 
     alt="Suman's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumnRanjan&layout=compact&theme=tokyonight&hide_border=true" 
+    src="https://github-readme-stats-rho-orpin.vercel.app/api/top-langs/?username=SumnRanjan&layout=compact&theme=tokyonight" 
     alt="Top Languages"
   />
 </p>
+
 
 
 ---
