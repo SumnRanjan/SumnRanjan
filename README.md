@@ -49,14 +49,10 @@
     <img src="https://img.shields.io/badge/PlayIt-7A5CF5?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://github.com/SumnRanjan/Car-Rental" target="_blank">
-    <img src="https://img.shields.io/badge/Car_Rental-FFC107?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-
 </p>
 
 <p align="center">
-  <b>Interview Platform</b> • <b>E-commerce</b> • <b>Blog Platform</b> • <b>Streaming Backend</b> • <b>Car Booking</b>
+  <b>Interview Platform</b> • <b>E-commerce</b> • <b>Blog Platform</b> • <b>Streaming Backend</b> </b>
 </p>
 
 
