@@ -34,7 +34,7 @@
 <p align="center">
 
   <a href="https://github.com/SumnRanjan/Interview-Talent-Q" target="_blank">
-    <img src="https://img.shields.io/badge/Interview_Talent_Q-00C853?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Talent-00C853?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://github.com/SumnRanjan/Forever-Ecom" target="_blank">
