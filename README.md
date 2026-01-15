@@ -33,6 +33,10 @@
 
 <p align="center">
 
+  <a href="https://github.com/SumnRanjan/Interview-Talent-Q" target="_blank">
+    <img src="https://img.shields.io/badge/Interview_Talent_Q-00C853?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
   <a href="https://github.com/SumnRanjan/Forever-Ecom" target="_blank">
     <img src="https://img.shields.io/badge/Forever_Ecom-0A84FF?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -52,8 +56,9 @@
 </p>
 
 <p align="center">
-  <b>E-commerce</b> • <b>Blog Platform</b> • <b>Streaming Backend</b> • <b>Car Booking</b>
+  <b>Interview Platform</b> • <b>E-commerce</b> • <b>Blog Platform</b> • <b>Streaming Backend</b> • <b>Car Booking</b>
 </p>
+
 
 
 ---
