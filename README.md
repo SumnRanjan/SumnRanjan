@@ -12,14 +12,14 @@
 
 ## 🚀 About Me
 
-- 🔭 Diving deeper into **MERN stack** & **Scalable System Design**  
-- 🌱 Improving **Data Structures & Algorithms (Java)**  
+- 🔭 I’m currently diving deeper into **MERN Stack**, **Scalable System Design**, and **DevOps**
+- 🌱 I’m improving my skills in **Data Structures & Algorithms using Java**
 - ⚙️ Tech Stack:  
-  `Java` • `C++` • `JavaScript` • `React.js` • `Node.js` • `Express.js` • `MongoDB`  
-- 🧩 Solved **500+ coding problems** on LeetCode, GFG & CodeChef  
-- 💡 Passionate about backend architecture & solving real-world problems  
-
----
+  `Java` • `C++` • `JavaScript` • `React.js` • `Node.js` • `Express.js` • `MongoDB`
+- 🚀 DevOps Skills:  
+  `Docker` • `Kubernetes` • `CI/CD` • `GitHub Actions` • `Linux` • `AWS`
+- 🧩 Solved **500+ coding problems** across **LeetCode**, **GeeksforGeeks**, and **CodeChef**
+- 💡 Passionate about **backend architecture**, **cloud deployment**, and solving **real-world problems**
 
 ## 🧰 Tech Stack
 
