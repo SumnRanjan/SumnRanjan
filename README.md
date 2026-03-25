@@ -12,19 +12,21 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently diving deeper into **MERN Stack**, **Scalable System Design**, and **DevOps**
-- 🌱 I’m improving my skills in **Data Structures & Algorithms using Java**
+- 🔭 Exploring **MERN Stack**, **Scalable System Design**, and **DevOps**
+- 🌱 Strengthening **Data Structures & Algorithms using Java**
 - ⚙️ Tech Stack:  
   `Java` • `C++` • `JavaScript` • `React.js` • `Node.js` • `Express.js` • `MongoDB`
-- 🚀 DevOps Skills:  
-  `Docker` • `Kubernetes` • `CI/CD` • `GitHub Actions` • `Linux` • `AWS`
+- 🚀 DevOps & Tools:  
+  `Docker` • `Kubernetes` • `CI/CD` • `GitHub Actions` • `Linux` • `AWS` • `Shell Scripting`
 - 🧩 Solved **500+ coding problems** across **LeetCode**, **GeeksforGeeks**, and **CodeChef**
-- 💡 Passionate about **backend architecture**, **cloud deployment**, and solving **real-world problems**
+- 💡 Passionate about building **scalable backend systems**, automating workflows, and solving **real-world problems**
 
-## 🧰 Tech Stack
+---
+
+## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,react,nodejs,express,mongodb,git,github,linux,aws" />
+  <img src="https://skillicons.dev/icons?i=java,js,cpp,react,nodejs,express,mongodb,git,github,linux,aws,docker,kubernetes,bash" />
 </p>
 
 ---
