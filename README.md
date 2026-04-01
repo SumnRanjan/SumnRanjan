@@ -1,5 +1,3 @@
-# Full GitHub README
-
 <h1 align="center">yo, i'm Suman Ranjan 👋</h1>
 
 <p align="center">
@@ -7,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Java+%2B+MERN+Enjoyer;500%2B+DSA+Problems+Solved;Building+Cool+Stuff+on+the+Internet" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Java+%2B+MERN+Enjoyer;500%2B+DSA+Problems+Solved;Building+Cool+Stuff+on+the+Internet" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -26,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=profile+stalkers&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -35,10 +33,9 @@
 
 - currently deep into the **MERN stack**, **system design**, and trying to survive **DevOps**
 - grinding **DSA in Java** because placement season is scary
-- solved **500+ problems** on LeetCode, GeeksforGeeks, and CodeChef because apparently pain builds character
+- solved **500+ problems** on LeetCode, GeeksforGeeks, and CodeChef
 - obsessed with scalable backend systems, automation, and turning random ideas into working projects
 - lowkey romanticizing the software engineer grind
-- coding my way out of the tutorial phase
 
 ---
 
@@ -54,7 +51,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SumnRanjan&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumnRanjan&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=SumnRanjan&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
@@ -63,7 +60,9 @@
 
 ---
 
-## 🚀 featured chaos
+## 🚀 featured projects
+
+> replace repo names below with the **exact** repo names from your GitHub if any one of these still breaks
 
 <p align="center">
   <a href="https://github.com/SumnRanjan/Interview-Talent-Q">
@@ -96,7 +95,11 @@
 ## 🐍 contribution snake because why not
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SumnRanjan/SumnRanjan/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumnRanjan/SumnRanjan/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumnRanjan/SumnRanjan/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/SumnRanjan/SumnRanjan/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -122,6 +125,3 @@
 <p align="center">
   if you're into coding, building cool stuff, or suffering through bugs together, let's connect fr
 </p>
-
-
-This version gives your profile a much more premium and modern look with typing animations, stats cards, pinned repos, trophies, snake graph, and contribution graphs. Inspired by the GitHub Metrics style README you shared. fileciteturn0file0L1-L40
