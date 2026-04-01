@@ -12,7 +12,7 @@
   <a href="https://portfolio-suman-gray.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/suman-ranjan-12">
+  <a href="https://www.linkedin.com/in/suman-ranjan-12719338a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/RocketBoie/">
