@@ -1,3 +1,5 @@
+# Full GitHub README
+
 <h1 align="center">yo, i'm Suman Ranjan 👋</h1>
 
 <p align="center">
@@ -5,7 +7,26 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=stalkers&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Java+%2B+MERN+Enjoyer;500%2B+DSA+Problems+Solved;Building+Cool+Stuff+on+the+Internet" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://portfolio-suman-gray.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/suman-ranjan-12">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/RocketBoie/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://github.com/SumnRanjan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=profile+stalkers&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -14,86 +35,93 @@
 
 - currently deep into the **MERN stack**, **system design**, and trying to survive **DevOps**
 - grinding **DSA in Java** because placement season is scary
-- tech stack got me like:  
-  `Java` • `C++` • `JavaScript` • `React.js` • `Node.js` • `Express.js` • `MongoDB`
-- dev tools i fight with daily:  
-  `Docker` • `Kubernetes` • `CI/CD` • `GitHub Actions` • `Linux` • `AWS` • `Shell Scripting`
 - solved **500+ problems** on LeetCode, GeeksforGeeks, and CodeChef because apparently pain builds character
-- obsessed with building scalable backends, automating boring stuff, and making random ideas actually work
+- obsessed with scalable backend systems, automation, and turning random ideas into working projects
 - lowkey romanticizing the software engineer grind
+- coding my way out of the tutorial phase
 
 ---
 
 ## ⚙️ tech stack i use to create bugs professionally
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,react,nodejs,express,mongodb,git,github,linux,aws,docker,kubernetes,bash" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,react,nodejs,express,mongodb,git,github,linux,aws,docker,kubernetes,bash" />
 </p>
-
----
-
-## 📌 stuff i've built and somehow got working
-
-<p align="center">
-
-  <a href="https://github.com/SumnRanjan/Interview-Talent-Q" target="_blank">
-    <img src="https://img.shields.io/badge/Talent-00C853?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/SumnRanjan/Forever-Ecom" target="_blank">
-    <img src="https://img.shields.io/badge/Forever_Ecom-0A84FF?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/SumnRanjan/LamaBlog" target="_blank">
-    <img src="https://img.shields.io/badge/LamaBlog-FF6F61?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://github.com/SumnRanjan/PlayIt-Backend" target="_blank">
-    <img src="https://img.shields.io/badge/PlayIt-7A5CF5?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</p>
-
-<p align="center">
-  <b>interview platform</b> • <b>e-commerce app</b> • <b>blog platform</b> • <b>streaming backend</b>
-</p>
-
----
-
-## ⚡ random fact
-
-> i spend more time fixing bugs than creating features and honestly that's the developer experience
 
 ---
 
 ## 📊 github stats because numbers look cool
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumnRanjan&theme=tokyonight"
-    height="200"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SumnRanjan&theme=tokyonight&utcOffset=5.5"
-    height="200"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SumnRanjan&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumnRanjan&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SumnRanjan&theme=tokyonight"
-    height="200"
-  />
-  &nbsp;&nbsp;&nbsp;
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SumnRanjan&theme=tokyonight"
-    height="200"
-  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumnRanjan&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
 
+## 🚀 featured chaos
+
 <p align="center">
-  if you're into coding, building cool stuff, or just suffering through bugs together, let's connect 🤝
+  <a href="https://github.com/SumnRanjan/Interview-Talent-Q">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumnRanjan&repo=Interview-Talent-Q&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SumnRanjan/Forever-Ecom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumnRanjan&repo=Forever-Ecom&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/SumnRanjan/LamaBlog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumnRanjan&repo=LamaBlog&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/SumnRanjan/PlayIt-Backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumnRanjan&repo=PlayIt-Backend&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
+## 📈 contribution graph because consistency looks cool
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumnRanjan&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🐍 contribution snake because why not
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SumnRanjan/SumnRanjan/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</p>
+
+---
+
+## 🏆 github trophies because shiny things are motivating
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SumnRanjan&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## ⚡ currently
+
+- building projects instead of excuses
+- learning more about scalable systems and cloud
+- trying to become the developer my younger self would think is cool
+
+---
+
+## 🤝 let's connect
+
+<p align="center">
+  if you're into coding, building cool stuff, or suffering through bugs together, let's connect fr
+</p>
+
+
+This version gives your profile a much more premium and modern look with typing animations, stats cards, pinned repos, trophies, snake graph, and contribution graphs. Inspired by the GitHub Metrics style README you shared. fileciteturn0file0L1-L40
