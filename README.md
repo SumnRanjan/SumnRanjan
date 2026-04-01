@@ -60,30 +60,6 @@
 
 ---
 
-## 🚀 featured projects
-
-> replace repo names below with the **exact** repo names from your GitHub if any one of these still breaks
-
-<p align="center">
-  <a href="https://github.com/SumnRanjan/Interview-Talent-Q">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumnRanjan&repo=Interview-Talent-Q&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SumnRanjan/Forever-Ecom">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumnRanjan&repo=Forever-Ecom&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/SumnRanjan/LamaBlog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumnRanjan&repo=LamaBlog&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/SumnRanjan/PlayIt-Backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumnRanjan&repo=PlayIt-Backend&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 📈 contribution graph because consistency looks cool
 
 <p align="center">
