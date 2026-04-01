@@ -90,27 +90,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumnRanjan&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
----
 
-## 🐍 contribution snake because why not
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumnRanjan/SumnRanjan/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumnRanjan/SumnRanjan/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/SumnRanjan/SumnRanjan/output/github-snake.svg" />
-  </picture>
-</p>
-
----
-
-## 🏆 github trophies because shiny things are motivating
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SumnRanjan&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ## ⚡ currently
 
