@@ -1,29 +1,30 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#00bfff">Suman Ranjan</span></h1>
+<h1 align="center">yo, i'm Suman Ranjan 👋</h1>
 
 <p align="center">
-  🚀 Full-Stack Developer • 🧠 DSA Enthusiast • 💡 Lifelong Learner
+  full-stack dev in progress 🚀 • dsa grind never ends 🧠 • building stuff and hoping it works fr
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=stalkers&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🫠 about me
 
-- 🔭 Exploring **MERN Stack**, **Scalable System Design**, and **DevOps**
-- 🌱 Strengthening **Data Structures & Algorithms using Java**
-- ⚙️ Tech Stack:  
+- currently deep into the **MERN stack**, **system design**, and trying to survive **DevOps**
+- grinding **DSA in Java** because placement season is scary
+- tech stack got me like:  
   `Java` • `C++` • `JavaScript` • `React.js` • `Node.js` • `Express.js` • `MongoDB`
-- 🚀 DevOps & Tools:  
+- dev tools i fight with daily:  
   `Docker` • `Kubernetes` • `CI/CD` • `GitHub Actions` • `Linux` • `AWS` • `Shell Scripting`
-- 🧩 Solved **500+ coding problems** across **LeetCode**, **GeeksforGeeks**, and **CodeChef**
-- 💡 Passionate about building **scalable backend systems**, automating workflows, and solving **real-world problems**
+- solved **500+ problems** on LeetCode, GeeksforGeeks, and CodeChef because apparently pain builds character
+- obsessed with building scalable backends, automating boring stuff, and making random ideas actually work
+- lowkey romanticizing the software engineer grind
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ tech stack i use to create bugs professionally
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,cpp,react,nodejs,express,mongodb,git,github,linux,aws,docker,kubernetes,bash" />
@@ -31,7 +32,7 @@
 
 ---
 
-## 📌 Featured Projects
+## 📌 stuff i've built and somehow got working
 
 <p align="center">
 
@@ -54,22 +55,19 @@
 </p>
 
 <p align="center">
-  <b>Interview Platform</b> • <b>E-commerce</b> • <b>Blog Platform</b> • <b>Streaming Backend</b> </b>
+  <b>interview platform</b> • <b>e-commerce app</b> • <b>blog platform</b> • <b>streaming backend</b>
 </p>
 
+---
 
+## ⚡ random fact
+
+> i spend more time fixing bugs than creating features and honestly that's the developer experience
 
 ---
 
-## ⚡ Fun Fact
+## 📊 github stats because numbers look cool
 
-> I debug code like Sherlock solves mysteries — minus the hat. 🕵️‍♂️
-
----
-
-## 📊 GitHub Stats 
-
-<!-- Row 1 -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SumnRanjan&theme=tokyonight"
@@ -82,7 +80,6 @@
   />
 </p>
 
-<!-- Row 2 -->
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SumnRanjan&theme=tokyonight"
@@ -95,9 +92,8 @@
   />
 </p>
 
-
 ---
 
 <p align="center">
-  ✨ <b>Let's collaborate and build something amazing together!</b> ✨
+  if you're into coding, building cool stuff, or just suffering through bugs together, let's connect 🤝
 </p>
