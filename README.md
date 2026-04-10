@@ -44,13 +44,6 @@
 
 ---
 
-## 📈 contribution graph because consistency looks cool
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumnRanjan&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
-
 
 ## ⚡ currently
 
