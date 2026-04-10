@@ -27,18 +27,6 @@
   <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
-## 🫠 about me
-
-- currently deep into the **MERN stack**, **system design**, and trying to survive **DevOps**
-- grinding **DSA in Java** because placement season is scary
-- solved **500+ problems** on LeetCode, GeeksforGeeks, and CodeChef
-- obsessed with scalable backend systems, automation, and turning random ideas into working projects
-- lowkey romanticizing the software engineer grind
-
----
-
 ## ⚙️ tech stack i use to create bugs professionally
 
 <p align="center">
@@ -54,10 +42,6 @@
   <img src="https://streak-stats.demolab.com?user=SumnRanjan&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumnRanjan&layout=compact&theme=tokyonight&hide_border=true" height="180" /> -->
-</p>
-
 ---
 
 ## 📈 contribution graph because consistency looks cool
@@ -71,7 +55,7 @@
 ## ⚡ currently
 
 - building projects instead of excuses
-- learning more about scalable systems and cloud
+- learning more about scalable systems and devops
 - trying to become the developer my younger self would think is cool
 
 ---
