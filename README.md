@@ -26,13 +26,6 @@
   <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
-<!-- METRICS CARD — same style as lowlighter/metrics -->
-<img src="https://github.com/SumnRanjan/SumnRanjan/blob/main/github-metrics.svg" alt="Metrics" />
-
----
-
 ## ⚙️ tech stack i use to create bugs professionally
 
 <p align="center">
