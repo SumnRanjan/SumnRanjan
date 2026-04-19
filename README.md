@@ -1,5 +1,4 @@
 <h1 align="center">yo, i'm Suman Ranjan 👋</h1>
-
 <p align="center">
   full-stack dev in progress 🚀 • dsa grind never ends 🧠 • building stuff and hoping it works fr
 </p>
@@ -27,6 +26,13 @@
   <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
+---
+
+<!-- METRICS CARD — same style as lowlighter/metrics -->
+<img src="https://github.com/SumnRanjan/SumnRanjan/blob/main/github-metrics.svg" alt="Metrics" />
+
+---
+
 ## ⚙️ tech stack i use to create bugs professionally
 
 <p align="center">
@@ -38,17 +44,13 @@
 ## 📊 github stats because numbers look cool
 
 <p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=SumnRanjan&show_icons=true&theme=tokyonight&hide_border=true" height="180" /> -->
   <img src="https://streak-stats.demolab.com?user=SumnRanjan&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 ---
-
 
 ## ⚡ currently
 
 - building projects instead of excuses
 - learning more about scalable systems and devops
 - trying to become the developer my younger self would think is cool
-
----
