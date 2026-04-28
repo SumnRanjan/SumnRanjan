@@ -1,4 +1,4 @@
-<h1 align="center">yo, i'm Suman Ranjan 👋</h1>
+<h1 align="center">i'm Suman Ranjan 👋</h1>
 <p align="center">
   devops in progress 🚀 • dsa grind never ends 🧠 • building stuff and hoping it works fr
 </p>
