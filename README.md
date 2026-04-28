@@ -1,6 +1,6 @@
 <h1 align="center">yo, i'm Suman Ranjan 👋</h1>
 <p align="center">
-  full-stack dev in progress 🚀 • dsa grind never ends 🧠 • building stuff and hoping it works fr
+  devops in progress 🚀 • dsa grind never ends 🧠 • building stuff and hoping it works fr
 </p>
 
 <p align="center">
