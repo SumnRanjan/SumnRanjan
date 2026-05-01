@@ -1,10 +1,11 @@
-<h1 align="center">i'm Suman Ranjan 👋</h1>
+<h1 align="center">Hi, I'm Suman Ranjan 👋</h1>
+
 <p align="center">
-  devops in progress 🚀 • dsa grind never ends 🧠 • building stuff and hoping it works fr
+  DevOps & Full Stack Developer • CI/CD • Docker • Kubernetes • AWS
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=38F77A&center=true&vCenter=true&width=900&lines=Let%27s+Build+Something+Amazing!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38F77A&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems+%7C+Automating+Deployments+%7C+Learning+Everyday" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -23,10 +24,22 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-## ⚙️ tech stack i use to create bugs professionally
+---
+
+## 🚀 About Me
+
+- 🎓 Computer Science Engineering student  
+- 🔧 Hands-on experience with **CI/CD pipelines, Docker, Kubernetes**  
+- ☁️ Deployed applications on **AWS (EC2, VPC)**  
+- 🌐 Built scalable applications using **MERN Stack**  
+- 📈 Solved **500+ DSA problems**
+
+---
+
+## ⚙️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,js,react,nodejs,express,mongodb,git,github,linux,aws,docker,kubernetes,bash" />
@@ -34,7 +47,15 @@
 
 ---
 
-## 📊 github stats because numbers look cool
+## 🔥 Featured Work
+
+- ⚙️ **Jenkins CI/CD Pipeline** – Automated build & deployment using Jenkins + Docker  
+- ☸️ **Kubernetes Chat Application** – 3-tier architecture with scalable deployment  
+- 🚀 **Talent-IQ (MERN)** – Full-stack interview platform with real-time features  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SumnRanjan&theme=tokyonight&hide_border=true" height="180" />
@@ -42,8 +63,12 @@
 
 ---
 
-## ⚡ currently
+## ⚡ Currently
 
-- building projects instead of excuses
-- learning more about scalable systems and devops
-- trying to become the developer my younger self would think is cool
+- Building real-world DevOps projects  
+- Learning scalable systems & cloud architecture  
+- Preparing for entry-level DevOps / Full Stack roles  
+
+---
+
+⭐ *Focused on building, learning, and growing every day.*
