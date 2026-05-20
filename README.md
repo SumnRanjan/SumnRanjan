@@ -39,7 +39,7 @@
 ## ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,js,react,nodejs,express,mongodb,git,github,linux,aws,docker,kubernetes,bash" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,js,react,nodejs,express,mongodb,git,github,linux,aws,docker,kubernetes,bash,terraform" />
 </p>
 
 ---
