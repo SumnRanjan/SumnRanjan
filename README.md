@@ -1,6 +1,4 @@
-<p align="center">
-  <a href="https://portfolio-suman-gray.vercel.app/"><img src="./assets/header.svg" alt="Suman Ranjan — Full Stack · DevOps · AI Engineer" width="100%" /></a>
-</p>
+<h1 align="center">!Suman Ranjan</h1>
 
 <p align="center">
   <a href="https://portfolio-suman-gray.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -110,7 +108,3 @@ e04b6c9 cert: Linux & SQL — Google (Coursera)
 echo "Let's build something great together 🚀"
 open https://portfolio-suman-gray.vercel.app
 ```
-
-<p align="center">
-  <img src="./assets/footer.svg" alt="main · 0 problems · available for hire" width="100%" />
-</p>
