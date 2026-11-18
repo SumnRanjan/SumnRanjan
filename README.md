@@ -1,90 +1,102 @@
-<h1 align="center">Hi, I'm Suman Ranjan 👋</h1>
+<h1 align="center"><code>~/suman-ranjan</code> 👋</h1>
 
 <p align="center">
-  DevOps • Full Stack • AI Engineering — CI/CD • Docker • Kubernetes • AWS • LLMs • RAG
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=800&lines=%24+whoami;suman_ranjan+%E2%80%94+Full+Stack+%C2%B7+DevOps+%C2%B7+AI+Engineer;%24+git+commit+-m+%22building+scalable+systems%22;%24+docker+build+-t+ideas+.+%26%26+kubectl+apply;%24+python+rag_pipeline.py+--llm+--qdrant" alt="Typing SVG" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=38F77A&center=true&vCenter=true&width=900&lines=Building+Scalable+Systems+%7C+Automating+Deployments;Building+AI+Apps+with+LLMs+%26+RAG;Learning+Everyday" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <a href="https://portfolio-suman-gray.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/suman-ranjan-12719338a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/RocketBoie/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:sumanranjan17291729@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://portfolio-suman-gray.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/suman-ranjan-12719338a/"><img src="https://img.shields.io/badge/linkedin-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff" /></a>
+  <a href="https://leetcode.com/u/RocketBoie/"><img src="https://img.shields.io/badge/leetcode-0d1117?style=for-the-badge&logo=leetcode&logoColor=ffa116" /></a>
+  <a href="mailto:sumanranjan17291729@gmail.com"><img src="https://img.shields.io/badge/email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff7b72" /></a>
+  <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=profile%20views&color=3fb950&style=for-the-badge" alt="profile views" />
 </p>
 
 ---
 
-## 🚀 About Me
+### `$ cat about.ts`
 
-- 🎓 B.E. Computer Science Engineering — **Chitkara University** (CGPA: **8.69**)
-- 💼 Former **Full Stack Development Intern** at **OctaNet Pvt. Ltd.** (React.js, REST APIs, Axios)
-- 🔧 Hands-on with **CI/CD pipelines (Jenkins), Docker, Kubernetes** and monitoring with **Prometheus & Grafana**
-- ☁️ Deployed containerized applications on **AWS (EC2, VPC)**
-- 🤖 Building AI apps with **LLMs, RAG, Embeddings** and the **Qdrant vector database**
-- 🌐 Built full-stack, real-time apps with **MERN, TypeScript & Socket.IO**
-- 📈 Solved **500+ DSA problems** across LeetCode, GeeksforGeeks and CodeChef
+```typescript
+const developer = {
+  name: "Suman Ranjan",
+  role: ["Full Stack", "DevOps", "AI Engineer"],
+  education: "B.E. CSE @ Chitkara University · CGPA 8.69",
+  experience: "Full Stack Development Intern @ OctaNet Pvt. Ltd.",
+  stack: ["MERN", "TypeScript", "Python"],
+  devops: ["Docker", "Kubernetes", "Jenkins", "AWS (EC2, VPC)", "Prometheus", "Grafana"],
+  ai: ["LLMs", "RAG", "Embeddings", "Qdrant", "ReAct Agents"],
+  dsaSolved: 500, // LeetCode · GeeksforGeeks · CodeChef
+  openTo: ["DevOps", "Full Stack", "AI Engineer"],
+};
+
+export default developer;
+```
 
 ---
 
-## ⚙️ Tech Stack
+### `$ cat skills.json`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,react,tailwind,nodejs,express,mongodb,mysql" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux,bash,prometheus,grafana,git,github,postman" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,bash&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,mysql,postman&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux,githubactions,prometheus,grafana,git&theme=dark" />
 </p>
 
-**🤖 AI Engineering:** LLM APIs • Prompt Engineering • RAG • Embeddings • Vector DB (Qdrant) • RAG Evaluation • Pydantic • ReAct Agents
+```json
+{
+  "ai_engineering": ["LLM APIs", "Prompt Engineering", "RAG", "Embeddings", "Vector DB (Qdrant)",
+                     "Chunking", "RAG Evaluation", "Pydantic", "ReAct Agents", "Prompt Chaining"],
+  "devops_cloud":   ["Docker", "Kubernetes", "Jenkins CI/CD", "AWS", "Linux", "Prometheus", "Grafana"],
+  "cs_fundamentals": ["DSA", "OOP", "OS", "DBMS", "Computer Networks", "System Design"]
+}
+```
 
 ---
 
-## 🔥 Featured Work
+### `$ ls -la ./projects`
 
-- 🤖 **AI Resume Parser & AI Portfolio** – LLM extracts resume data into Pydantic-validated JSON; embeddings in **Qdrant** rank candidates; **RAG** powers natural-language candidate search and an AI portfolio assistant
-- ☸️ **ChatSphere – Real-Time Chat Platform (DevOps)** – 3-tier app containerized with Docker, Jenkins CI/CD, deployed on **Kubernetes + AWS EC2**
-- 🚀 **TalentIQ – Real-Time Interview Platform (MERN)** – Video interviews, chat and collaborative coding with Stream, Monaco Editor and Judge0; deployed on Vercel & Railway
-- 🎯 **QuizFlow** – Real-time quiz platform with React, TypeScript, Node.js & Socket.IO — room codes, live questions and a real-time leaderboard
-- 🎥 **StreamYard-Inspired Live Streaming Platform** – Node.js, Express.js, Socket.IO, FFmpeg & Docker
-
----
-
-## 📜 Certifications
-
-- Applied DevOps Engineering — IBM (Coursera)
-- Linux Commands & Shell Scripting — IBM (Coursera)
-- Linux & SQL — Google (Coursera)
+| repo | description | stack |
+|---|---|---|
+| ⭐ [**ai_engineer**](https://github.com/SumnRanjan/ai_engineer) | AI Resume Parser & AI Portfolio — LLM extracts resume data into Pydantic-validated JSON, Qdrant embeddings rank candidates, RAG powers candidate search + an AI portfolio assistant | `Python` `LLM` `RAG` `Qdrant` |
+| [**Real-Time-Chat-Application**](https://github.com/SumnRanjan/Real-Time-Chat-Application-3-Tier-Docker-K8s) | ChatSphere — 3-tier chat app with Docker, Jenkins CI/CD, deployed on Kubernetes + AWS EC2 | `Docker` `K8s` `Jenkins` `AWS` |
+| [**Talent-IQ**](https://github.com/SumnRanjan/Talent-IQ) | Real-time interview platform — video, chat & collaborative coding (Stream, Monaco, Judge0) | `MERN` `Vercel` `Railway` |
+| [**quizflow**](https://github.com/SumnRanjan/quizflow) | Real-time quiz platform — room codes, live questions, real-time leaderboard | `React` `TypeScript` `Socket.IO` |
+| [**StreamYard-app**](https://github.com/SumnRanjan/StreamYard-app) | StreamYard-inspired live streaming — browser capture, FFmpeg encoding, RTMP | `Node.js` `Socket.IO` `FFmpeg` `Docker` |
+| [**team-task-manager**](https://github.com/SumnRanjan/team-task-manager) | TeamTask — collaboration & task manager with JWT auth and RBAC | `MERN` `JWT` |
+| [**PlayIt-Backend**](https://github.com/SumnRanjan/PlayIt-Backend) | REST API for a social video platform — uploads, playlists, likes, subscriptions | `Node.js` `Express` `MongoDB` |
 
 ---
 
-## 📊 GitHub Stats
+### `$ git log --oneline --journey`
+
+```bash
+a7f3c21 (HEAD -> main) feat: B.E. Computer Science Engineering @ Chitkara University (CGPA 8.69)
+4be19d0 feat: Full Stack Development Intern @ OctaNet Pvt. Ltd. (React.js, REST APIs, Axios)
+9c2e7f1 cert: Applied DevOps Engineering — IBM (Coursera)
+5d81a3b cert: Linux Commands & Shell Scripting — IBM (Coursera)
+e04b6c9 cert: Linux & SQL — Google (Coursera)
+```
+
+---
+
+### `$ ./stats.sh`
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SumnRanjan&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=SumnRanjan&theme=github-dark-blue&hide_border=true&background=0d1117" height="170" />
 </p>
 
 ---
 
-## ⚡ Currently
+### `$ cat todo.md`
 
-- Building AI applications with **LLMs, RAG and AI agents**
-- Building real-world DevOps projects and learning **system design** & cloud architecture
-- Open to entry-level **DevOps / Full Stack / AI Engineer** roles
+- [x] Build full-stack, real-time apps with MERN & Socket.IO
+- [x] Ship DevOps pipelines with Docker, Jenkins & Kubernetes on AWS
+- [ ] Build AI agents with **LLMs, RAG & ReAct**
+- [ ] Go deeper into **system design** & cloud architecture
+- [ ] Land an entry-level **DevOps / Full Stack / AI Engineer** role 🚀
 
 ---
 
-⭐ *Focused on building, learning, and growing every day.*
+<p align="center">
+  <code>⎇ main</code> · <code>✓ 0 problems</code> · <code>● available for hire</code>
+</p>
