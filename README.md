@@ -1,7 +1,5 @@
-<h1 align="center"><code>~/suman-ranjan</code> 👋</h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=3FB950&center=true&vCenter=true&width=800&lines=%24+whoami;suman_ranjan+%E2%80%94+Full+Stack+%C2%B7+DevOps+%C2%B7+AI+Engineer;%24+git+commit+-m+%22building+scalable+systems%22;%24+docker+build+-t+ideas+.+%26%26+kubectl+apply;%24+python+rag_pipeline.py+--llm+--qdrant" alt="Typing SVG" />
+  <a href="https://portfolio-suman-gray.vercel.app/"><img src="./assets/header.svg" alt="Suman Ranjan — Full Stack · DevOps · AI Engineer" width="100%" /></a>
 </p>
 
 <p align="center">
@@ -12,9 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=SumnRanjan&label=profile%20views&color=3fb950&style=for-the-badge" alt="profile views" />
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=3FB950&center=true&vCenter=true&width=760&lines=%24+git+commit+-m+%22building+scalable+systems%22;%24+docker+build+-t+ideas+.+%26%26+kubectl+apply+-f+k8s%2F;%24+python+rag_pipeline.py+--llm+--qdrant" alt="Typing SVG" />
+</p>
+
 ---
 
-### `$ cat about.ts`
+### 🟦 `about.ts`
 
 ```typescript
 const developer = {
@@ -34,7 +36,7 @@ export default developer;
 
 ---
 
-### `$ cat skills.json`
+### 🟨 `skills.json`
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,bash&theme=dark" /><br/>
@@ -47,13 +49,13 @@ export default developer;
   "ai_engineering": ["LLM APIs", "Prompt Engineering", "RAG", "Embeddings", "Vector DB (Qdrant)",
                      "Chunking", "RAG Evaluation", "Pydantic", "ReAct Agents", "Prompt Chaining"],
   "devops_cloud":   ["Docker", "Kubernetes", "Jenkins CI/CD", "AWS", "Linux", "Prometheus", "Grafana"],
-  "cs_fundamentals": ["DSA", "OOP", "OS", "DBMS", "Computer Networks", "System Design"]
+  "cs_fundamentals": ["DSA", "OOP", "OS", "DBMS", "Computer Networks"]
 }
 ```
 
 ---
 
-### `$ ls -la ./projects`
+### 🔵 `projects.md`
 
 | repo | description | stack |
 |---|---|---|
@@ -67,9 +69,22 @@ export default developer;
 
 ---
 
-### `$ git log --oneline --journey`
+### ⬜ `system-design.md`
+
+```yaml
+case_studies:
+  notification_system: [message queues, push / sms / email providers, retries, user preferences]
+  whatsapp:            [websockets, delivery & read receipts, offline storage, presence]
+  tiktok:              [video transcoding, object storage + CDN, feed, caching at scale]
+concepts: [load balancing, caching, sharding, replication, SQL vs NoSQL, CDN]
+```
+
+---
+
+### ⬛ `journey.log`
 
 ```bash
+$ git log --oneline
 a7f3c21 (HEAD -> main) feat: B.E. Computer Science Engineering @ Chitkara University (CGPA 8.69)
 4be19d0 feat: Full Stack Development Intern @ OctaNet Pvt. Ltd. (React.js, REST APIs, Axios)
 9c2e7f1 cert: Applied DevOps Engineering — IBM (Coursera)
@@ -79,7 +94,7 @@ e04b6c9 cert: Linux & SQL — Google (Coursera)
 
 ---
 
-### `$ ./stats.sh`
+### 📊 `stats.sh`
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SumnRanjan&theme=github-dark-blue&hide_border=true&background=0d1117" height="170" />
@@ -87,16 +102,15 @@ e04b6c9 cert: Linux & SQL — Google (Coursera)
 
 ---
 
-### `$ cat todo.md`
+### 🟩 `contact.sh`
 
-- [x] Build full-stack, real-time apps with MERN & Socket.IO
-- [x] Ship DevOps pipelines with Docker, Jenkins & Kubernetes on AWS
-- [ ] Build AI agents with **LLMs, RAG & ReAct**
-- [ ] Go deeper into **system design** & cloud architecture
-- [ ] Land an entry-level **DevOps / Full Stack / AI Engineer** role 🚀
-
----
+```bash
+#!/bin/bash
+# open to DevOps · Full Stack · AI Engineer roles, internships and freelance
+echo "Let's build something great together 🚀"
+open https://portfolio-suman-gray.vercel.app
+```
 
 <p align="center">
-  <code>⎇ main</code> · <code>✓ 0 problems</code> · <code>● available for hire</code>
+  <img src="./assets/footer.svg" alt="main · 0 problems · available for hire" width="100%" />
 </p>
