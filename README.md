@@ -1,4 +1,4 @@
-<h1 align="center">!Suman Ranjan</h1>
+<h1 align="center">$ whoami → <code>suman_ranjan</code></h1>
 
 <p align="center">
   <a href="https://portfolio-suman-gray.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -57,12 +57,9 @@ export default developer;
 
 | repo | description | stack |
 |---|---|---|
-| ⭐ [**ai_engineer**](https://github.com/SumnRanjan/ai_engineer) | AI Resume Parser & AI Portfolio — LLM extracts resume data into Pydantic-validated JSON, Qdrant embeddings rank candidates, RAG powers candidate search + an AI portfolio assistant | `Python` `LLM` `RAG` `Qdrant` |
+| 📚 [**ai_engineer**](https://github.com/SumnRanjan/ai_engineer) | My AI Engineering learning repo — LLM API calls, prompt engineering, structured output (Pydantic), ReAct, prompt chaining, streaming, embeddings, Qdrant, RAG pipelines & RAG evaluation | `Python` `LLM` `RAG` `Qdrant` |
 | [**Real-Time-Chat-Application**](https://github.com/SumnRanjan/Real-Time-Chat-Application-3-Tier-Docker-K8s) | ChatSphere — 3-tier chat app with Docker, Jenkins CI/CD, deployed on Kubernetes + AWS EC2 | `Docker` `K8s` `Jenkins` `AWS` |
 | [**Talent-IQ**](https://github.com/SumnRanjan/Talent-IQ) | Real-time interview platform — video, chat & collaborative coding (Stream, Monaco, Judge0) | `MERN` `Vercel` `Railway` |
-| [**quizflow**](https://github.com/SumnRanjan/quizflow) | Real-time quiz platform — room codes, live questions, real-time leaderboard | `React` `TypeScript` `Socket.IO` |
-| [**StreamYard-app**](https://github.com/SumnRanjan/StreamYard-app) | StreamYard-inspired live streaming — browser capture, FFmpeg encoding, RTMP | `Node.js` `Socket.IO` `FFmpeg` `Docker` |
-| [**team-task-manager**](https://github.com/SumnRanjan/team-task-manager) | TeamTask — collaboration & task manager with JWT auth and RBAC | `MERN` `JWT` |
 | [**PlayIt-Backend**](https://github.com/SumnRanjan/PlayIt-Backend) | REST API for a social video platform — uploads, playlists, likes, subscriptions | `Node.js` `Express` `MongoDB` |
 
 ---
@@ -102,9 +99,11 @@ e04b6c9 cert: Linux & SQL — Google (Coursera)
 
 ### 🟩 `contact.sh`
 
-```bash
+<pre>
 #!/bin/bash
 # open to DevOps · Full Stack · AI Engineer roles, internships and freelance
 echo "Let's build something great together 🚀"
-open https://portfolio-suman-gray.vercel.app
-```
+open <a href="https://portfolio-suman-gray.vercel.app">https://portfolio-suman-gray.vercel.app</a>
+mail <a href="mailto:sumanranjan17291729@gmail.com">sumanranjan17291729@gmail.com</a>
+open <a href="https://www.linkedin.com/in/suman-ranjan-12719338a/">linkedin.com/in/suman-ranjan</a>
+</pre>
