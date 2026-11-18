@@ -38,7 +38,7 @@ export default developer;
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,bash&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,mongodb,mysql,postman&theme=dark" /><br/>
+ <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,mongodb,mysql,postman&theme=dark" />
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,jenkins,aws,linux,githubactions,prometheus,grafana,git&theme=dark" />
 </p>
 
