@@ -57,8 +57,8 @@ export default developer;
 
 | repo | description | stack |
 |---|---|---|
-| 📚 [**ai_engineer**](https://github.com/SumnRanjan/ai_engineer) | My AI Engineering learning repo — LLM API calls, prompt engineering, structured output (Pydantic), ReAct, prompt chaining, streaming, embeddings, Qdrant, RAG pipelines & RAG evaluation | `Python` `LLM` `RAG` `Qdrant` |
-| [**Real-Time-Chat-Application**](https://github.com/SumnRanjan/Real-Time-Chat-Application-3-Tier-Docker-K8s) | ChatSphere — 3-tier chat app with Docker, Jenkins CI/CD, deployed on Kubernetes + AWS EC2 | `Docker` `K8s` `Jenkins` `AWS` |
+| 📚 [**Ai_Engineer**](https://github.com/SumnRanjan/ai_engineer) | My AI Engineering learning repo — LLM API calls, prompt engineering, structured output (Pydantic), ReAct, prompt chaining, streaming, embeddings, Qdrant, RAG pipelines & RAG evaluation | `Python` `LLM` `RAG` `Qdrant` |
+| [**Chat Application**](https://github.com/SumnRanjan/Real-Time-Chat-Application-3-Tier-Docker-K8s) | ChatSphere — 3-tier chat app with Docker, Jenkins CI/CD, deployed on Kubernetes + AWS EC2 | `Docker` `K8s` `Jenkins` `AWS` |
 | [**Talent-IQ**](https://github.com/SumnRanjan/Talent-IQ) | Real-time interview platform — video, chat & collaborative coding (Stream, Monaco, Judge0) | `MERN` `Vercel` `Railway` |
 | [**PlayIt-Backend**](https://github.com/SumnRanjan/PlayIt-Backend) | REST API for a social video platform — uploads, playlists, likes, subscriptions | `Node.js` `Express` `MongoDB` |
 
